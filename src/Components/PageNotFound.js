@@ -1,7 +1,4 @@
 import React, { Component, Fragment } from "react";
-import { connect } from "react-redux";
-import { withRouter } from "react-router-dom";
-import userAction from "../action";
 
 class PageNotFound extends Component {
   render() {
